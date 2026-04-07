@@ -3,3 +3,4 @@ function areaQuadrada(lado) {
 }
 console.log(areaQuadrada(8));
 
+//!Tudo Errado !!! -- ignore
