@@ -1,3 +1,6 @@
+// COMENTARIO: linkar ao HTML
+
+
 function areaCirculo(raio) {
     const PI = 3.14159;
     return PI * raio * raio;
