@@ -1,4 +1,4 @@
-// codigo de exemplo
+// calculo do area do triangulo
 
 
 function perimentroTriangulo(l1, l2, l3) {
