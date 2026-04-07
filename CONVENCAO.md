@@ -25,8 +25,8 @@ Exemplos inválidos:
 Cada aluno cria uma pasta em `funcoes/`:
 
 ```txt
-funcoes/
-  nome-da-funcao/
+nomealuno/
+  nome-do-arquivo/
     index.js
 ```
 
