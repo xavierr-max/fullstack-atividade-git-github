@@ -3,4 +3,4 @@ function perimetro(lado){
 
 }
 
-console.log(perimetro(10));
+console.log(perimetro(10));g
